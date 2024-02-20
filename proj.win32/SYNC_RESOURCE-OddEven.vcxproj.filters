@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\wodnj\Desktop\OddEven\proj.win32\CMakeFiles\31a26f8f0a0aab17abd13f589a08b20d\SYNC_RESOURCE-OddEven.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\wodnj\Desktop\OddEven\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\wodnj\Desktop\OddEven\proj.win32\CMakeFiles\SYNC_RESOURCE-OddEven" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{09FA6808-3D6D-3846-A27C-8472A34C7CE2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
