@@ -1,0 +1,1 @@
+I've uploaded the entire solutions which could built for Win, linux, iOS, Android. Source codes for this game, classes, scenes, are in Classes folder. Resources that used in this game would be uploaded in the future. 
